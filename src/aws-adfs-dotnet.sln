@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "awsadfs", "awsadfs\awsadfs.csproj", "{DF43920F-9102-4937-BDA4-CD15061362BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "awsadfs", "awsadfs\awsadfs.csproj", "{AFF05333-9613-4017-B405-8E1A555807A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DF43920F-9102-4937-BDA4-CD15061362BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DF43920F-9102-4937-BDA4-CD15061362BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DF43920F-9102-4937-BDA4-CD15061362BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DF43920F-9102-4937-BDA4-CD15061362BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFF05333-9613-4017-B405-8E1A555807A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFF05333-9613-4017-B405-8E1A555807A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFF05333-9613-4017-B405-8E1A555807A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFF05333-9613-4017-B405-8E1A555807A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
